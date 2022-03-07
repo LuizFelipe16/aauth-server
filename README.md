@@ -1,4 +1,4 @@
-![Banner](/public/banner.png)
+![Banner](/assets/banner.png)
 
 <br/>
 
@@ -92,13 +92,13 @@ Screen Shots
 
 - Login
 
-![ScreenShot](/public/login.png)
+![ScreenShot](/assets/login.png)
 
 <br/>
 
 - Dashboard
 
-![ScreenShot](/public/dashboard.png)
+![ScreenShot](/assets/dashboard.png)
 
 <br/>
 
